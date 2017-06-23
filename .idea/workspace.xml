@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534e03f0-09b2-4d83-84b2-85e58f578069" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/amolg98.github.io.iml" afterPath="$PROJECT_DIR$/.idea/amolg98.github.io.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -213,7 +211,7 @@
       <workItem from="1498225955109" duration="962000" />
       <workItem from="1498227150039" duration="1074000" />
       <workItem from="1498228345420" duration="60000" />
-      <workItem from="1498229161365" duration="7613000" />
+      <workItem from="1498229161365" duration="7697000" />
     </task>
     <task id="LOCAL-00001" summary="added css file">
       <created>1498195719089</created>
@@ -285,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498237539149</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added www">
+      <created>1498239238328</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1498239238328</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14828000" />
+    <option name="totallyTimeSpent" value="14912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -328,7 +333,8 @@
     <MESSAGE value="removed previous files" />
     <MESSAGE value="again adding html and css files" />
     <MESSAGE value="modified index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified index.html" />
+    <MESSAGE value="added www" />
+    <option name="LAST_COMMIT_MESSAGE" value="added www" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
